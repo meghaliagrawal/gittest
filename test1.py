@@ -275,7 +275,6 @@ elif code == 15:
 			print("emailid is not valid")
 			
 	if __name__ == "__main__":
-		
 		main()
 		
 elif code == 16:
